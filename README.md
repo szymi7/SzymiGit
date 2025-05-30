@@ -1,0 +1,2 @@
+# SzymiGit
+readme.md
